@@ -8,9 +8,9 @@ A document-aware Question Answering bot built with **LangChain**, **IBM Watsonx.
 
 ## 🚀 Demo
 
-> _Add a screenshot or screen-recording GIF of the app here_
+> _Adding a screenshot _
 > 
-> ![App Demo](docs/demo.gif)
+> ![App Demo](demo-screenshot.png)
 
 ---
 
