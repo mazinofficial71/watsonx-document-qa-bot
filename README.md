@@ -111,4 +111,4 @@ This project was built as part of the **IBM AI Engineering Professional Certific
 
 **Muhammed Mazin K**  
 B.Tech in Artificial Intelligence & Data Science — MES College of Engineering, Kerala  
-[LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/muhammed-mazin-416984361) • [GitHub](https://github.com/mazinofficial71) • [Email](mailto:mazinmachu71@gmail.com)
